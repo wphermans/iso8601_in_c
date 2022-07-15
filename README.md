@@ -12,3 +12,5 @@ $ gcc -o test iso8601.c
 $ ./test
 {Date: 2022-07-15 19:59:48}
 ```
+
+**blog post** [The Embedded Hobbyist - The beginning of a new project](https://www.embeddedhobbyist.com/2022/07/15/the-beginning-of-a-new-project/)
